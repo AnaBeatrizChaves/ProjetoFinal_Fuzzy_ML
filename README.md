@@ -48,7 +48,7 @@ Para garantir que o código funcione corretamente e reproduza os mesmos resultad
 
 ---
 
-## 👥 Equipe Desenvolvedora
+## 👥 Equipe de Desenvolvimento
 
 * Ana Beatriz Chaves Cardoso da Silva
 * Anabell Roanes Rodrigues de Amorim
