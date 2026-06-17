@@ -1,4 +1,4 @@
-# 📊 Consultor Inteligente de Investimentos: Machine Learning & Lógica Fuzzy
+# 📊 Sistema Inteligente de Recomendação de Investimentos: Machine Learning & Lógica Fuzzy
 
 Este repositório contém o código-fonte e a base de dados referentes ao Trabalho Final Prático da disciplina de **Inteligência Artificial** (Universidade Católica de Brasília - UCB), sob a orientação do Prof. William Malvezzi.
 
