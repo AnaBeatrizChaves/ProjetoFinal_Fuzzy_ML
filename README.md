@@ -21,7 +21,7 @@ O projeto foi desenvolvido em **Python 3** e otimizado para execução no ambien
 
 * `Tema05_Recomendação_de_Investimentos.ipynb`: O notebook principal contendo todo o pipeline do projeto (Geração de Dados, EDA, Treinamento ML, Sistema Fuzzy e Casos de Teste).
 * `base_investidores.csv`: A base de dados sintética com 150 registros gerada pelo nosso próprio notebook durante a execução.
-* `RelatórioFinal.pdf`: A documentação técnica contendo toda a fundamentação teórica, justificativas metodológicas e a conclusão do projeto.
+* `RelatorioFinal.pdf`: A documentação técnica contendo toda a fundamentação teórica, justificativas metodológicas e a conclusão do projeto.
 
 ---
 
