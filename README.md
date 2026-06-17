@@ -1,6 +1,6 @@
 # 📊 Sistema Inteligente de Recomendação de Investimentos: Machine Learning e Lógica Fuzzy
 
-Este repositório contém o código-fonte e a base de dados referentes ao Trabalho Final Prático da disciplina de **Inteligência Artificial** (Universidade Católica de Brasília - UCB), sob a orientação do Prof. William Malvezzi.
+Este repositório contém todo o material referente ao Projeto Final Prático da disciplina de **Inteligência Artificial** (Universidade Católica de Brasília - UCB), sob a orientação do Prof. William Malvezzi.
 
 O projeto aborda o **Tema 5 (Recomendação de Investimentos)** e propõe uma arquitetura híbrida de IA para mitigar a rigidez dos sistemas tradicionais de *Suitability* financeiro. A solução integra um modelo de classificação probabilística (Árvore de Decisão) com um motor de processamento de regras cognitivas (Lógica Fuzzy) para recomendar o percentual ideal de alocação em Renda Variável.
 
