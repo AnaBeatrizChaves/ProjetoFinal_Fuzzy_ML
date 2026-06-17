@@ -50,7 +50,15 @@ Para garantir que o código funcione corretamente e reproduza os mesmos resultad
 
 ## 👥 Equipe Desenvolvedora
 
-* **[Nome do Aluno 1]** - Matrícula
-* **[Nome do Aluno 2]** - Matrícula
-* **[Nome do Aluno 3]** - Matrícula
-*(Adicione ou remova conforme o tamanho do seu grupo)*
+## 👥 Equipe Desenvolvedora
+
+* Ana Beatriz Chaves Cardoso da Silva
+* Anabell Roanes Rodrigues de Amorim
+* Brenda Leal dos Santos Campos
+* Douglas Simões Vieira da Silva
+* Eduardo Lopes Barros
+* Eduardo Luciano Ribeiro
+* Enã de Araújo Teixeira
+* Guilherme Fiorelli Braz Rodrigues
+* Henrique Medeiros Costa
+
