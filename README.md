@@ -50,8 +50,6 @@ Para garantir que o código funcione corretamente e reproduza os mesmos resultad
 
 ## 👥 Equipe Desenvolvedora
 
-## 👥 Equipe Desenvolvedora
-
 * Ana Beatriz Chaves Cardoso da Silva
 * Anabell Roanes Rodrigues de Amorim
 * Brenda Leal dos Santos Campos
