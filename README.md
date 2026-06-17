@@ -19,9 +19,9 @@ O projeto foi desenvolvido em **Python 3** e otimizado para execução no ambien
 
 ## 📁 Estrutura dos Arquivos
 
-* `g5.ipynb` (ou o nome final do seu notebook): O notebook principal contendo todo o pipeline do projeto (Geração de Dados, EDA, Treinamento ML, Sistema Fuzzy e Casos de Teste).
+* `Tema05_Recomendação_de_Investimentos.ipynb` (ou o nome final do seu notebook): O notebook principal contendo todo o pipeline do projeto (Geração de Dados, EDA, Treinamento ML, Sistema Fuzzy e Casos de Teste).
 * `base_investidores.csv`: A base de dados sintética com 150 registros gerada pelo próprio notebook durante a execução.
-* `Relatorio.pdf`: O documento técnico contendo a fundamentação teórica, análise de coerência, justificativas metodológicas e a conclusão do estudo.
+* `RelatórioFinal.pdf`: O documento técnico contendo a fundamentação teórica, análise de coerência, justificativas metodológicas e a conclusão do estudo.
 
 ---
 
