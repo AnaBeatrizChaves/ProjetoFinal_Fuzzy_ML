@@ -19,9 +19,9 @@ O projeto foi desenvolvido em **Python 3** e otimizado para execução no ambien
 
 ## 📁 Estrutura dos Arquivos
 
-* `Tema05_Recomendação_de_Investimentos.ipynb` (ou o nome final do seu notebook): O notebook principal contendo todo o pipeline do projeto (Geração de Dados, EDA, Treinamento ML, Sistema Fuzzy e Casos de Teste).
-* `base_investidores.csv`: A base de dados sintética com 150 registros gerada pelo próprio notebook durante a execução.
-* `RelatórioFinal.pdf`: O documento técnico contendo a fundamentação teórica, análise de coerência, justificativas metodológicas e a conclusão do estudo.
+* `Tema05_Recomendação_de_Investimentos.ipynb`: O notebook principal contendo todo o pipeline do projeto (Geração de Dados, EDA, Treinamento ML, Sistema Fuzzy e Casos de Teste).
+* `base_investidores.csv`: A base de dados sintética com 150 registros gerada pelo nosso próprio notebook durante a execução.
+* `RelatórioFinal.pdf`: A documentação técnica contendo toda a fundamentação teórica, justificativas metodológicas e a conclusão do projeto.
 
 ---
 
@@ -39,8 +39,8 @@ Para garantir que o código funcione corretamente e reproduza os mesmos resultad
    * Execute essa primeira célula e aguarde a finalização da instalação.
 
 3. **Execução do Pipeline:**
-   * Após a instalação, você pode executar o projeto inteiro de uma só vez clicando no menu superior: **Ambiente de execução > Executar tudo** (ou atalho `Ctrl + F9`).
-   * **Geração de Dados:** O notebook utilizará uma semente fixa (`np.random.seed(42)`) para gerar a base sintética e salvar o arquivo `base_investidores.csv` no armazenamento temporário do Colab.
+   * Após a instalação, você pode executar o projeto inteiro de uma só vez clicando no menu superior: **Executar tudo**.
+   * **Geração de Dados:** uma semente fixa (`np.random.seed(42)`) para garantir a reprodutibilidade do experimento. A escolha do valor "42" é uma convenção padrão na comunidade de ciência de dados (uma referência à cultura geek sobre a "resposta para a vida, o universo e tudo mais"), mas sua função técnica é assegurar que qualquer pessoa que execute o código obtenha exatamente os mesmos dados sintéticos. Isso é fundamental para permitir a validação consistente da acurácia e das simulações apresentadas no relatório. A base resultante é salva automaticamente como base_investidores.csv no armazenamento temporário do Colab. obterá exatamente os mesmos dados sintéticos, permitindo a verificação consistente da acurácia e das simulações apresentadas. A base resultante é salva automaticamente como base_investidores.csv no armazenamento temporário do Colab.
    * **Fluxo:** O código seguirá automaticamente pelo pré-processamento, plotagem dos gráficos exploratórios, treinamento da Árvore de Decisão, inicialização do Motor Fuzzy e impressão dos resultados dos "Casos de Teste" simulados no final.
 
 4. **Visualização:**
